@@ -14,5 +14,3 @@ Computer Science & Technology Student | Aspiring Software Developer | C Programm
 
 ---
 [![](https://komarev.com/ghpvc/?username=jishubhaskar00-afk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
