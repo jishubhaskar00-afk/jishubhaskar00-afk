@@ -26,4 +26,3 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jishubhaskar00-afk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jishubhaskar00-afk&" alt="jishubhaskar00-afk" /></p>
